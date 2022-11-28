@@ -1,1 +1,11 @@
-hola, este es un txt en espanol, actualmente este archivo es la rama master, la rama principal
+Hello, this is the translated txt file, this file is located in 'tanslation' branch
+
+I want to keep this index:
+
+1
+2
+3
+4
+5
+6
+7
