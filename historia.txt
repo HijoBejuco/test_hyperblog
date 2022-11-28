@@ -1,1 +1,1 @@
-hola, este es un txt en espanol, actualmente este archivo es la rama master, la rama principal
+Hello, this is the translated txt file, this file is located in 'tanslation' branch
