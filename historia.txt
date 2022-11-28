@@ -1,1 +1,1 @@
-hola
+hola, este es un txt en espanol, actualmente este archivo es la rama master, la rama principal
